@@ -50,6 +50,31 @@ A lightweight Android app that scans a QR code and writes its value to an NFC ta
 
 --- 
 
+## 🛠️ How to Build
+
+1. Clone the repository
+  ```bash
+  git clone https://github.com/yourname/qr-to-nfc-android.git
+  cd qr-to-nfc-android
+  ```
+2. Open in Android Studio
+- Launch Android Studio
+- Select Open an existing project
+- Choose the project folder you just cloned
+3. Set up dependencies
+- Sync the gradle
+4. Enable NFC on your test device
+- Go to device settings → turn on NFC
+5. Run the project
+- Connect an NFC-capable Android device via USB
+- Press ▶️ Run in Android Studio
+6. Test the flow
+- Scan a QR code → see the value on screen
+- Tap an NFC tag to write → confirm toast
+- To check if it works, close the app, tap the tag again, and the value will be read back and opened in the browser (if it’s a URL).
+
+---
+
 ## 🔌 Manifest: required permissions & features
 Add these lines to your AndroidManifest.xml:
 ```cmd
