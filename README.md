@@ -2,13 +2,13 @@
 
 A lightweight Android app that scans a QR code and writes its value to an NFC tag. Perfect for quick physical-digital links like product pages, contactless menus, or smart posters.
 
----
 ✨ Highlights
 - Read QR codes (supports URLs and plain text)
 - Write the scanned value to an NFC tag (NDEF URL/text)
 - Read NFC tags and optionally open URL values in a browser
 - Simple, clean UI (see screenshots below)
 - Small, self-contained Kotlin project
+  
 ---
 
 ### How to write NFC tag
