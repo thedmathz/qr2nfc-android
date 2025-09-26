@@ -3,8 +3,13 @@
 <table>
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/db25f30b-9016-4260-b2e9-06c07b950229" alt="img1" width="240"/><br/>Caption 1</td>
-    <td align="center"><img src="./images/img2.png" alt="img2" width="240"/><br/>Caption 2</td>
-    <td align="center"><img src="./images/img3.png" alt="img3" width="240"/><br/>Caption 3</td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/db25f30b-9016-4260-b2e9-06c07b950229" alt="img1" width="240"/><br/>Caption 1</td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/db25f30b-9016-4260-b2e9-06c07b950229" alt="img1" width="240"/><br/>Caption 1</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/db25f30b-9016-4260-b2e9-06c07b950229" alt="img1" width="240"/><br/>Caption 1</td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/db25f30b-9016-4260-b2e9-06c07b950229" alt="img1" width="240"/><br/>Caption 1</td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/db25f30b-9016-4260-b2e9-06c07b950229" alt="img1" width="240"/><br/>Caption 1</td>
   </tr>
 </table>
 
