@@ -16,18 +16,18 @@ A lightweight Android app that scans a QR code and writes its value to an NFC ta
 ### How to write NFC tag
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/db25f30b-9016-4260-b2e9-06c07b950229" alt="img1" width="240"/><br/>Read QR code</td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/8eae7461-9810-4023-9ab0-0af5504f6718" alt="img1" width="240"/><br/>Scan to NFC tag to write</td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/0b30dbf6-6f23-4a45-8c77-da7424395215" alt="img1" width="240"/><br/>Success notification</td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/db25f30b-9016-4260-b2e9-06c07b950229" alt="img1" width="180"/><br/>Read QR code</td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/8eae7461-9810-4023-9ab0-0af5504f6718" alt="img1" width="180"/><br/>Scan to NFC tag to write</td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/0b30dbf6-6f23-4a45-8c77-da7424395215" alt="img1" width="180"/><br/>Success notification</td>
   </tr>
 </table>
 
 ### How to read NFC tag
 <table>
   <tr>
-  <td align="center"><img src="https://github.com/user-attachments/assets/e6d69acc-eada-4618-be20-7dcb0312eae4" alt="img1" width="240"/><br/>Read NFC Tag</td>
-  <td align="center"><img src="https://github.com/user-attachments/assets/564198a1-f66a-4a11-9782-4b39142de459" alt="img1" width="240"/><br/>Browse Value (if URL)</td>
-  <td align="center"><img src="https://github.com/user-attachments/assets/48e8afa6-4cc8-4e1d-8c94-12949688fcec" alt="img1" width="240"/><br/>NFC tag</td>
+  <td align="center"><img src="https://github.com/user-attachments/assets/e6d69acc-eada-4618-be20-7dcb0312eae4" alt="img1" width="180"/><br/>Read NFC Tag</td>
+  <td align="center"><img src="https://github.com/user-attachments/assets/564198a1-f66a-4a11-9782-4b39142de459" alt="img1" width="180"/><br/>Browse Value (if URL)</td>
+  <td align="center"><img src="https://github.com/user-attachments/assets/48e8afa6-4cc8-4e1d-8c94-12949688fcec" alt="img1" width="180"/><br/>NFC tag</td>
   </tr>
 </table>
 
