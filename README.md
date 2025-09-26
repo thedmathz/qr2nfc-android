@@ -17,7 +17,7 @@ A lightweight Android app that scans a QR code and writes its value to an NFC ta
 <table>
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/db25f30b-9016-4260-b2e9-06c07b950229" alt="img1" width="240"/><br/>Read QR code</td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/8eae7461-9810-4023-9ab0-0af5504f6718" alt="img1" width="240"/><br/>Scan to write NFC tag</td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/8eae7461-9810-4023-9ab0-0af5504f6718" alt="img1" width="240"/><br/>Scan to NFC tag to write</td>
     <td align="center"><img src="https://github.com/user-attachments/assets/0b30dbf6-6f23-4a45-8c77-da7424395215" alt="img1" width="240"/><br/>Success notification</td>
   </tr>
 </table>
