@@ -11,6 +11,8 @@ A lightweight Android app that scans a QR code and writes its value to an NFC ta
   
 ---
 
+## 🖼️ Screenshots
+
 ### How to write NFC tag
 <table>
   <tr>
@@ -28,4 +30,35 @@ A lightweight Android app that scans a QR code and writes its value to an NFC ta
   <td align="center"><img src="https://github.com/user-attachments/assets/48e8afa6-4cc8-4e1d-8c94-12949688fcec" alt="img1" width="240"/><br/>NFC tag</td>
   </tr>
 </table>
+
+--- 
+
+## 💡 How it works (high level)
+1. The app uses the camera + a QR scanning library to scan QR codes.
+2. After a successful scan the app navigates to a new screen.
+3. User taps an NFC tag to the phone → the app writes the value to the tag.
+4. A toast notification confirms success.
+5. For reading, the app listens for NFC discovery intents and parses any NDEF records it finds — if the payload is a URL the app can open it in the browser.
+
+---
+
+## 🔧 Requirements
+- Android device with NFC hardware
+- Android 8.0+ recommended (API 28+)
+- Camera permission for QR scanning
+- NFC permission and feature declared in AndroidManifest.xml
+
+--- 
+
+## 🔌 Manifest: required permissions & features
+Add these lines to your AndroidManifest.xml:
+```cmd
+<uses-permission android:name="android.permission.CAMERA"/>
+<uses-permission android:name="android.permission.NFC"/>
+
+<uses-feature android:name="android.hardware.nfc" android:required="true"/>
+<uses-feature android:name="android.hardware.camera.any" android:required="true"/>
+
+<!-- application tag area -->
+```
 
