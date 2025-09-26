@@ -1,6 +1,6 @@
 # 📱 QR Code → NFC Tag — Android
 
-A lightweight Android app that scans a QR code and writes its value to an NFC tag, and can also read and open URL values stored on NFC tags. Perfect for quick physical-digital links like product pages, contactless menus, or smart posters.
+A lightweight Android app that scans a QR code and writes its value to an NFC tag. Perfect for quick physical-digital links like product pages, contactless menus, or smart posters.
 
 ### How to write NFC tag
 <table>
